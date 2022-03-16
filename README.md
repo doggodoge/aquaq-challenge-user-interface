@@ -1,6 +1,21 @@
-# Getting Started with Create React App
+# AquaQ Challenge Solutions User Interface
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+> This is not in any way associated with the company AquaQ. These are only my
+> solutions to their challenge hosted on `challenges.aquaq.co.uk`.
+
+This is a React user interface bootstrapped with create react app of my solutions
+for the AquaQ challenges hosted on their website. You can follow the instructions
+below to launch the app.
+
+I only have solutions so far for challenges 0, 1, and 5. I've written this in such
+a way to make adding the solutions to more challenges easy enough.
+
+All challenges were originally solved using the Deno runtime, then ported over to
+the web to run inside this website.
+
+I'll add a bit more interactivity to each solution where it's appropriate later.
+Examples of this might include an interactive T9 user interface, allowing the
+user to supply their own input, etc.
 
 ## Available Scripts
 
