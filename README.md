@@ -3,6 +3,8 @@
 > This is not in any way associated with the company AquaQ. These are only my
 > solutions to their challenge hosted on `challenges.aquaq.co.uk`.
 
+![image](https://user-images.githubusercontent.com/8438991/158528117-583b411a-35b9-4121-9404-d71b8f3189fa.png)
+
 This is a React user interface bootstrapped with create react app of my solutions
 for the AquaQ challenges hosted on their website. You can follow the instructions
 below to launch the app.
