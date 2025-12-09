@@ -1,4 +1,6 @@
-# AquaQ Challenge Solutions User Interface
+Archived on GitHub and moved to https://git.sr.ht/~gary_moore/aquaq-challenge-user-interface
+
+    # AquaQ Challenge Solutions User Interface
 
 > This is not in any way associated with the company AquaQ. These are only my
 > solutions to their challenge hosted on `challenges.aquaq.co.uk`.
